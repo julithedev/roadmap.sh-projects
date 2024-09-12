@@ -1,0 +1,49 @@
+body {
+  padding: 50px;
+  font-size: 15px;
+}
+
+hr {
+  width: 75%;
+  text-align: left;
+  margin-left:0
+}
+
+section {
+  margin: 25px 0;
+}
+
+p {
+  margin: 0;
+}
+
+ul li {
+  margin: 0;
+  padding-left; 0;
+}
+
+a {
+  text-decoration: none
+}
+
+.profession,
+.section-title {
+  color: green;
+  margin: 10px 0;
+}
+
+.entity-name {
+  color: dodgerblue;
+  margin: 0;
+}
+
+.list2 {
+  padding-left: 0;
+  margin-left: 0;
+  list-style-type: none;
+  display: flex;
+}
+
+.list2-item {
+  margin: 0 5px;
+}
